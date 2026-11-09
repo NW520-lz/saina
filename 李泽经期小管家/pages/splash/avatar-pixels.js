@@ -1,0 +1,37 @@
+// 由 tools/gen-splash.py 生成，请勿手改。换头像后重新运行脚本
+// rows 里每个字符是 palette 的下标（0-9a-zA-Z），'.' 表示空格子
+export default {
+	palette: ['#0c070a', '#170d11', '#1d151c', '#241c28', '#2c2029', '#2f263f', '#3c262c', '#34283d', '#382c41', '#3c3043', '#42333c', '#44353d', '#4b363c', '#574048', '#976665', '#c9b0e8', '#e1aec3', '#d3bdf7', '#d4befb', '#d6c0fc', '#d7c0fb', '#d8c3fc', '#eac4c8', '#dac5fb', '#dac5fc', '#ddc6fc', '#ddc9fd', '#e0cafd', '#e1cefd', '#fed2b4', '#e6d1fd', '#f3d5dc', '#e9d7fd', '#fedfca', '#f0dffb', '#faeef7', '#fdf7f3', '#fefbfe'],
+	rows: [
+		'...ssssuuuwwzzwyyzuuppookkB...',
+		'.sussuwwzBBBBBaBBaywwsrplihhB.',
+		'.sttuwyBBa7baa244aaaBwurplihh.',
+		'utyywyBgbaa2c611214acewwrolhhh',
+		'uywwwddcba6b11a03a0aabezsqokhh',
+		'ttwwzeaeacb24e20a4e3caeazrqohh',
+		'suwwg64aeeaaaa61aabacea6erqoih',
+		'qsyed3cbaeeaea24aabb0a24ddqoih',
+		'qsze4a2baaace0a1aeeaa2a44dqolh',
+		'qswaaa6aab2deeeeeaaaaaa44epolh',
+		'qs6633aaa646gcctcccabaa444yolh',
+		'ssy63a62a6cdtddxxddcc21a44qojh',
+		'qry42066ac26xxdxx61cca444yoolh',
+		'qoyd42626dxdttdttd00c6144llojh',
+		'oony4304cg000xxxx01m16444jloih',
+		'qrlky9346tAd2xxxxxttt622hhklih',
+		'qsnkhh104ttttxxxxxtttgthhknlih',
+		'putnkhzxettttxxxxxtttxxhhAtlih',
+		'pAAAkhhxxttxxxxtxxxxxxhhkAAlih',
+		'opAnlkihzzxxxxxxxxxxhhhijijjhh',
+		'llllllkkkikzxxxxx1zihkggzjjihh',
+		'jlllloollkkkzmtgtzkkklvvzllihf',
+		'joooooooppp33zztAAdplorrpolihz',
+		'loppppppBg5995AggA99Bppppplzwu',
+		'yprrrrrB598585AAA9888Brrrrpyup',
+		'wyyssuu55998955AA99999urzyyuph',
+		'ruwyuuu55558885AA99998uywwuphf',
+		'.suwyy955558855AA89855duuspih.',
+		'.psuBBe855358555A855555srrihf.',
+		'...srB55333355555555555Brph...',
+	]
+}

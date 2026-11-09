@@ -1,0 +1,13 @@
+{
+	"name": "xiaoze-ai-server",
+	"version": "1.0.0",
+	"private": false,
+	"description": "李泽经期小管家 · 小泽 AI 后端（DeepSeek / 女娲智能体代理，隐藏密钥）",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"engines": {
+		"node": ">=18"
+	}
+}

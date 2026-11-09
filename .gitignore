@@ -1,0 +1,20 @@
+# Local secrets and runtime files
+server/config.js
+李泽经期小管家/services/ai/apiConfig.js
+**/config.local.js
+.env
+.env.*
+!.env.example
+
+# Dependencies and generated build output
+node_modules/
+**/node_modules/
+李泽经期小管家/unpackage/
+李泽经期小管家/.hbuilderx/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json

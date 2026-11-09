@@ -1,0 +1,11 @@
+{
+	"name": "ai-assistant",
+	"version": "1.0.0",
+	"description": "AI 代理：DeepSeek / 女娲智能体（隐藏密钥）",
+	"main": "index.js",
+	"dependencies": {},
+	"cloudfunction-config": {
+		"timeout": 60,
+		"memorySize": 256
+	}
+}

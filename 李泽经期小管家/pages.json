@@ -1,0 +1,77 @@
+{
+	"pages": [
+		{
+			"path": "pages/splash/splash",
+			"style": {
+				"navigationStyle": "custom",
+				"backgroundColor": "#FFE9F1",
+				"app-plus": { "background": "#FFE9F1", "bounce": "none" }
+			}
+		},
+		{
+			"path": "pages/today/today",
+			"style": { "navigationBarTitleText": "经期小管家" }
+		},
+		{
+			"path": "pages/calendar/calendar",
+			"style": { "navigationBarTitleText": "经期日历" }
+		},
+		{
+			"path": "pages/chat/chat",
+			"style": { "navigationBarTitleText": "和小泽聊聊" }
+		},
+		{
+			"path": "pages/mine/mine",
+			"style": { "navigationBarTitleText": "我的" }
+		},
+		{
+			"path": "pages/record/record",
+			"style": { "navigationBarTitleText": "每日记录" }
+		},
+		{
+			"path": "pages/welcome/welcome",
+			"style": { "navigationStyle": "custom" }
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "经期小管家",
+		"navigationBarBackgroundColor": "#FFE9F1",
+		"backgroundColor": "#FFF6F9",
+		"app-plus": {
+			"background": "#FFF6F9"
+		}
+	},
+	"tabBar": {
+		"color": "#C9A9B5",
+		"selectedColor": "#FF6B9A",
+		"backgroundColor": "#FFFFFF",
+		"borderStyle": "white",
+		"list": [
+			{
+				"pagePath": "pages/today/today",
+				"text": "今天",
+				"iconPath": "static/tab/today.png",
+				"selectedIconPath": "static/tab/today-active.png"
+			},
+			{
+				"pagePath": "pages/calendar/calendar",
+				"text": "日历",
+				"iconPath": "static/tab/calendar.png",
+				"selectedIconPath": "static/tab/calendar-active.png"
+			},
+			{
+				"pagePath": "pages/chat/chat",
+				"text": "小泽",
+				"iconPath": "static/tab/chat.png",
+				"selectedIconPath": "static/tab/chat-active.png"
+			},
+			{
+				"pagePath": "pages/mine/mine",
+				"text": "我的",
+				"iconPath": "static/tab/mine.png",
+				"selectedIconPath": "static/tab/mine-active.png"
+			}
+		]
+	}
+}

@@ -1,0 +1,4 @@
+unpackage/
+node_modules/
+.hbuilderx/
+uniCloud-aliyun/cloudfunctions/ai-assistant/config.js
